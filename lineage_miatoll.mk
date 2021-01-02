@@ -7,6 +7,9 @@
 $(call inherit-product, device/xiaomi/miatoll/device.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
+#Make It Official
+SPICEOS_BUILDTYPE = OFFICIAL
+
 PRODUCT_NAME := lineage_miatoll
 PRODUCT_DEVICE := miatoll
 PRODUCT_BRAND := Xiaomi
