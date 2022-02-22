@@ -8,5 +8,10 @@
     "repository": "vendor_xiaomi_miatoll",
     "target_path": "vendor/xiaomi/miatoll",
     "branch": "twelve",
+  },
+  {
+    "repository": "vendor_xiaomi_miatoll-gcam",
+    "target_path": "vendor/xiaomi/miatoll-gcam",
+    "branch": "twelve",
   }
 ]
